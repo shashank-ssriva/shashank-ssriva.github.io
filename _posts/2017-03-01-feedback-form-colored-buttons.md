@@ -1,7 +1,7 @@
 ---
 layout: post		
-title:  "Feedback Form & Colored Buttons!"		
-date:   2017-02-28 16:16:01 -0600		
+title: "Feedback Form & Colored Buttons!"		
+date: 2017-02-28 16:16:01 -0600		
 categories: new-features cosmetic
 ---
 
