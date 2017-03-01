@@ -8,6 +8,8 @@ Hi There!! I recently added an option to submit feedback to me via a feedback fo
 
 I hope you'll like it :-)
 
-Sneek a peek here!! ![Glimpse]({{ site.url }}/assets/Application-page.png)
+Sneek a peek here!! Open images in new tab for full view.
+
+![Glimpse]({{ site.url }}/assets/Application-page.png)
 ![Glimpse]({{ site.url }}/assets/colored-buttons.png)
 ![Glimpse]({{ site.url }}/assets/feedback-form.png)
