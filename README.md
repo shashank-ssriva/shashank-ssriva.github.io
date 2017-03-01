@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to shashank-ssriva.github.io
 
-You can use the [editor on GitHub](https://github.com/shashank-ssriva/shashank-ssriva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is home to some of the useful Applications that I have authored along-with my friend. I am not a developer per se, so the credit goes to my friend for her hard-word & dedication(code). I basically work on the UI & implementing new features. You may call me a tester as well ;-) And yeah, I am a SysAdmin & a DBA so you get the idea ;-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ExClaiMadEasy
 
-### Markdown
+Probably the most exciting Application I am a part of :-) ExClaiMadEasy (stands for Expense Claims Made Easy) is an extremely light-weight MySQL backed Web-app written in PHP for making submission of your Cab Expense Claims a breeze. All you need is to choose date(s) & enter bill amount in its soothing, beautiful UI. [ExClaiMadEasy](https://exclaimadeasy-monika.rhcloud.com/) will automatically generate a PDF document with the tables of your entries that you can print out, sign & submit to your office department for reimbursements. No more struggling with Excel sheets :-)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shashank-ssriva/shashank-ssriva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
