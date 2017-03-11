@@ -6,7 +6,7 @@ categories: new-app announcement
 ---
 Hi There!! Just released my new webapp HowMuchISaved which allows you to enter and see how much mone you have saved :-)
 
-I hope you'll like it :-) Also, please submit your feedback to report any bugs. Live applicaion can be seen here : - ({{ site.url }}https://howmuchisaved-monika.rhcloud.com/)
+I hope you'll like it :-) Also, please submit your feedback to report any bugs. Live applicaion can be seen [here : -](https://howmuchisaved-monika.rhcloud.com/)
 
 Sneek a peek here!! Open images in new tab for full view.
 
