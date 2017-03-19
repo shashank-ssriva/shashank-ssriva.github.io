@@ -4,6 +4,7 @@ title:  "How Much I Saved? My New App"
 date:   2017-03-11 16:16:01 -0600
 categories: new-app announcement
 ---
+{% include analytics.html %}
 Hi There!! Just released my new webapp HowMuchISaved which allows you to enter and see how much mone you have saved :-)
 
 I hope you'll like it :-) Also, please submit your feedback to report any bugs. Live applicaion can be seen [here : -](https://howmuchisaved-monika.rhcloud.com/)
