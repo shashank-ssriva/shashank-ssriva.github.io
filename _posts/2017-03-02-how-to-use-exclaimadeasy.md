@@ -4,6 +4,7 @@ title:  "How To Use ExClaiMadEasy?"
 date:   2017-03-02 16:16:01 -0600
 categories: how-to
 ---
+{% include analytics.html %}
 This blog post explains how to use ExClaiMadEasy to submit your claim expenses.
 * Go to the homepage.
 ![Glimpse]({{ site.url }}/assets/home-page.png)
