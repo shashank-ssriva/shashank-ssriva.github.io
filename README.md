@@ -1,3 +1,4 @@
+{% include analytics.html %}
 ## Welcome to shashank-ssriva.github.io
 
 This is home to some of the useful Applications that I have authored along-with my friend. I am not a developer per se, so the credit goes to my friend for her hard-word & dedication(code). I basically work on the UI & implementing new features. You may call me a tester as well ;-) And yeah, I am a SysAdmin & a DBA so you get the idea ;-)
