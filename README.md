@@ -11,7 +11,7 @@ Probably the most exciting Application I am a part of :-) ExClaiMadEasy (stands 
 ### How Much I Saved?
 
 A web-app written in PHP that helps you track how much money you have saved by any means, be it coupon/voucher/deal or anything like that. Even though it might sound childish, I am quite proud of it since its my first ever coding project & I feel so excited for it :-) I am not a developer, as you already know it :-)
-[How Much I Saved?](https://howmuchisaved-monika.rhcloud.com) is a simple & perhaps beautiful way to track your savings. Atleast, I think so :-)
+[How Much I Saved?](http://www.howmuchisaved.in) is a simple & perhaps beautiful way to track your savings. Atleast, I think so :-)
 
 #### Other Blogs
 
