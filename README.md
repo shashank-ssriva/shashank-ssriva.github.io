@@ -15,7 +15,8 @@ A web-app written in PHP that helps you track how much money you have saved by a
 
 ### White Space Remover
 
-```shashank@shashank-dbserver:~/Desktop$ cat whitespace.txt
+```
+shashank@shashank-dbserver:~/Desktop$ cat whitespace.txt
 Hi There,
 My name is Shashank.
 I am a Linux/Database Admin & a hobbyist developer.
