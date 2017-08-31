@@ -77,6 +77,45 @@ I love potatoes.
 Hope you liked it ;-)
 ```
 
+## [TextInFile](https://gist.github.com/shashank-ssriva/6595bfe80fc75346aeed64acf7b0802f)
+
+A simple, command-line utility that lets you search for a text string in a given directory.
+
+```shell
+shashank@shashank-dbserver:~/Desktop$ ./textinfile.sh /var/log/apache2/
+
+Detecting OS of your machine..
+
+Your OS is : - Ubuntu.
+
+Checking figlet insallation...
+
+/usr/bin/figlet
+figlet already installed! Lets get started :-)
+ _____         _   ___       _____ _ _      
+|_   _|____  _| |_|_ _|_ __ |  ___(_) | ___ 
+  | |/ _ \ \/ / __|| || '_ \| |_  | | |/ _ \
+  | |  __/>  <| |_ | || | | |  _| | | |  __/
+  |_|\___/_/\_\\__|___|_| |_|_|   |_|_|\___|
+                                            
+Welcome to TextInFile! A cute, little utility that allows you to search for the text inside directories from the command-line :-)
+
+Enter the string that you want to search inside /var/log/apache2/...GET /static/4d441666/scripts/yui/menu/assets/skins/sam/menu.css HTTP/1.1
+
+Searching for GET /static/4d441666/scripts/yui/menu/assets/skins/sam/menu.css HTTP/1.1 in /var/log/apache2/...
+
+GET /static/4d441666/scripts/yui/menu/assets/skins/sam/menu.css HTTP/1.1 was found 2 time(s) inside /var/log/apache2/.
+
+Below is your Search Result :-)
+
+/var/log/apache2/access_reverse_proxy.log.1:7:192.168.0.50 - - [25/Jun/2017:05:35:51 +0200] "GET /static/4d441666/scripts/yui/menu/assets/skins/sam/menu.css HTTP/1.1" 200 1654 "http://192.168.0.51/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36"
+/var/log/apache2/access_reverse_proxy.log.1:2807:10.0.2.2 - - [27/Jun/2017:03:44:31 +0200] "GET /static/4d441666/scripts/yui/menu/assets/skins/sam/menu.css HTTP/1.1" 200 1654 "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+
+This utility took 12 seconds to run(including the time you took to type/paste your string).
+
+That's all folks! Hope you liked TextInFile ;-)
+```
+
 ## Other Blogs
 
 Below are some of the blogs I have written :-)
