@@ -81,7 +81,7 @@ Hope you liked it ;-)
 
 A simple, command-line utility that lets you search for a text string in a given directory.
 
-```shell
+```bash
 shashank@shashank-dbserver:~/Desktop$ ./textinfile.sh /var/log/apache2/
 
 Detecting OS of your machine..
