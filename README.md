@@ -13,6 +13,30 @@ Probably the most exciting Application I am a part of :-) ExClaiMadEasy (stands 
 A web-app written in PHP that helps you track how much money you have saved by any means, be it coupon/voucher/deal or anything like that. Even though it might sound childish, I am quite proud of it since its my first ever coding project & I feel so excited for it :-) I am not a developer, as you already know it :-)
 [How Much I Saved?](http://www.howmuchisaved.in) is a simple & perhaps beautiful way to track your savings. Atleast, I think so :-)
 
+### White Space Remover
+
+shashank@shashank-dbserver:~/Desktop$ cat whitespace.txt
+Hi There,
+My name is Shashank.
+I am a Linux/Database Admin & a hobbyist developer.
+Here I am demonstrating my script in action. This sample code is taken from http://examples.oreilly.com/9781565922341/1.1.txt.
+----------------------------------------------------------------------------------
+<!-- This example is from the book _JavaScript: The Definitive Guide_.     -->
+<!-- Written by David Flanagan.  Copyright (c) 1996 O'Reilly & Associates. -->
+<!-- This example is provided WITHOUT WARRANTY either expressed or implied.-->
+<!-- You may study, use, modify, and distribute it for any purpose.        -->
+<HTML>
+<BODY>
+<SCRIPT LANGUAGE="JavaScript">
+document.write("<h2>Table of Factorials</h2>");
+for(i = 1, fact = 1; i < 10; i++, fact *= i) {
+    document.write(i + "! = " + fact);
+    document.write("<br>");
+}
+</SCRIPT>
+</BODY>
+</HTML> 
+
 #### Other Blogs
 
 Below are some of the blogs I have written :-)
