@@ -15,28 +15,33 @@ A web-app written in PHP that helps you track how much money you have saved by a
 
 ### White Space Remover
 
+Prettifies your code by removing unneccessary whitespaces.
+
 ```shell
-shashank@shashank-dbserver:~/Desktop$ cat whitespace.txt
-Hi There,
-My name is Shashank.
-I am a Linux/Database Admin & a hobbyist developer.
-Here I am demonstrating my script in action. This sample code is taken from http://examples.oreilly.com/9781565922341/1.1.txt.
-----------------------------------------------------------------------------------
-<!-- This example is from the book _JavaScript: The Definitive Guide_.     -->
-<!-- Written by David Flanagan.  Copyright (c) 1996 O'Reilly & Associates. -->
-<!-- This example is provided WITHOUT WARRANTY either expressed or implied.-->
-<!-- You may study, use, modify, and distribute it for any purpose.        -->
-<HTML>
-<BODY>
-<SCRIPT LANGUAGE="JavaScript">
+./whiteSpaceRemover.sh filename
+```
+Below is the example of JavaScript code **before** & **after** the script execution.
+
+```js
+document.write("<h2>Table of Factorials</h2>");
+
+
+for(i = 1, fact = 1; i < 10; i++, fact *= i) {
+
+
+
+    document.write(i + "! = " + fact);
+
+    document.write("<br>");
+}
+```
+
+```js
 document.write("<h2>Table of Factorials</h2>");
 for(i = 1, fact = 1; i < 10; i++, fact *= i) {
     document.write(i + "! = " + fact);
     document.write("<br>");
 }
-</SCRIPT>
-</BODY>
-</HTML> 
 ```
 
 #### Other Blogs
