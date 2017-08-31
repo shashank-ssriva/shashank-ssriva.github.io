@@ -47,7 +47,7 @@ for(i = 1, fact = 1; i < 10; i++, fact *= i) {
 }
 ```
 
-#### Other Blogs
+## Other Blogs
 
 Below are some of the blogs I have written :-)
 * [Linux & Database](https://watilearnd2day.wordpress.com/)
