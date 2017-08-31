@@ -15,14 +15,14 @@ A web-app written in PHP that helps you track how much money you have saved by a
 
 ### White Space Remover
 
-```
+```shell
 shashank@shashank-dbserver:~/Desktop$ cat whitespace.txt
 Hi There,
 My name is Shashank.
 I am a Linux/Database Admin & a hobbyist developer.
 Here I am demonstrating my script in action. This sample code is taken from http://examples.oreilly.com/9781565922341/1.1.txt.
 ----------------------------------------------------------------------------------
-js<!-- This example is from the book _JavaScript: The Definitive Guide_.     -->
+<!-- This example is from the book _JavaScript: The Definitive Guide_.     -->
 <!-- Written by David Flanagan.  Copyright (c) 1996 O'Reilly & Associates. -->
 <!-- This example is provided WITHOUT WARRANTY either expressed or implied.-->
 <!-- You may study, use, modify, and distribute it for any purpose.        -->
