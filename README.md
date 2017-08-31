@@ -13,7 +13,7 @@ Probably the most exciting Application I am a part of :-) ExClaiMadEasy (stands 
 A web-app written in PHP that helps you track how much money you have saved by any means, be it coupon/voucher/deal or anything like that. Even though it might sound childish, I am quite proud of it since its my first ever coding project & I feel so excited for it :-) I am not a developer, as you already know it :-)
 [How Much I Saved?](http://www.howmuchisaved.in) is a simple & perhaps beautiful way to track your savings. Atleast, I think so :-)
 
-### White Space Remover
+### [White Space Remover](https://github.com/shashank-ssriva/whiteSpaceRemover)
 
 Prettifies your code by removing unneccessary whitespaces.
 
@@ -47,7 +47,7 @@ for(i = 1, fact = 1; i < 10; i++, fact *= i) {
 }
 ```
 
-### Find Replace
+### [Find Replace](https://github.com/shashank-ssriva/FindReplace)
 
 An Ubuntu .deb package/command line utility that mimics Find/Replace functionality available in most Text Editors.
 
