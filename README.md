@@ -20,7 +20,9 @@ Prettifies your code by removing unneccessary whitespaces.
 ```shell
 ./whiteSpaceRemover.sh filename
 ```
-Below is the example of JavaScript code **before** & **after** the script execution.
+Below is the example of JavaScript code : - 
+
+> before the script execution.
 
 ```js
 document.write("<h2>Table of Factorials</h2>");
@@ -35,6 +37,7 @@ for(i = 1, fact = 1; i < 10; i++, fact *= i) {
     document.write("<br>");
 }
 ```
+> after the script execution.
 
 ```js
 document.write("<h2>Table of Factorials</h2>");
