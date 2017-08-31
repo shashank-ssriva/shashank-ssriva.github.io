@@ -6,8 +6,8 @@ categories: how-to
 ---
 {% include analytics.html %}
 This blog post explains how to use ExClaiMadEasy to submit your claim expenses.
-* Go to the homepage.
-![Glimpse]({{ site.url }}/assets/home-page.png)
+* Go to the homepage.  
+![Glimpse]({{ site.url }}/assets/home-page.png)  
 * Sign in or Sign up using your email-address. You can also login using Google credentials.
 * Choose ``Expense Category``. Weekly allows a maximum of 10 entries (*means, for a week!*). Choose accordingly.
 ![Glimpse]({{ site.url }}/assets/Application-page.png)
