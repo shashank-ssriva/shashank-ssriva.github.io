@@ -47,6 +47,34 @@ for(i = 1, fact = 1; i < 10; i++, fact *= i) {
 }
 ```
 
+### Find Replace
+
+An Ubuntu .deb package/command line utility that mimics Find/Replace functionality available in most Text Editors.
+
+```shell
+root@shashank-dbserver:/home/shashank# findreplace test.txt
+
+Welcome to findreplace! A cute, little utility that mimics Find/Replace functionality available in most Text Editors. No more struggling with syntax :-)
+
+Safety first! Hence, backing up the original file as 'test.txt.findreplace.orig'...
+
+Enter the word you want to replace...tomatoes
+
+Searching for 'tomatoes' in test.txt...
+
+Word 'tomatoes' encountered 1 time(s). Good to go ahead with replacement ;-)
+
+Enter what you want 'tomatoes' to be replaced with...potatoes
+
+Replacing 'tomatoes' with 'potatoes'...
+
+Below is your edited file displaying only the line(s) containing replaced text.
+
+I love potatoes.
+
+Hope you liked it ;-)
+```
+
 ## Other Blogs
 
 Below are some of the blogs I have written :-)
