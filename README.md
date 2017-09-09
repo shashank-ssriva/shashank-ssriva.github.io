@@ -1,3 +1,5 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -8,6 +10,7 @@
   ga('send', 'pageview');
 
 </script>
+</head>
 ## Welcome to shashank-ssriva.github.io
 
 This is home to some of the useful Applications that I have authored along-with my friend. I am not a developer per se, so the credit goes to my friend for her hard-word & dedication(code). I basically work on the UI & implementing new features. You may call me a tester as well ;-) And yeah, I am a SysAdmin & a DBA so you get the idea ;-)
