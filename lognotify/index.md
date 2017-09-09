@@ -36,4 +36,4 @@ See my [GitHub Repository]() for more information.
 Click below thumbnail to watch the demo video  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=K8I_xFdfYFs
-" target="_blank"><img src="http://img.youtube.com/vi/K8I_xFdfYFs/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/K8I_xFdfYFs/0.jpg">
