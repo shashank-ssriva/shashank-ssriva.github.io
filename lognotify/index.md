@@ -29,6 +29,8 @@ See my [GitHub Repository]() for more information.
 
 ## Screenshot
 
+Below is the pop-up notification I saw because of a resource being not available(404) :
+
 <img src="https://github.com/shashank-ssriva/lognotify/blob/master/lognoify_in_action.png" height="350" width="250">
 
 ## YouTube Demo Video
