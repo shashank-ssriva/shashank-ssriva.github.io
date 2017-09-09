@@ -25,7 +25,7 @@ root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_a
 192.168.0.51:80 127.0.0.1 - - [08/Sep/2017:15:00:51 +0200] "GET /jsdate/jsDatePick.min.1.3.js HTTP/1.1" 404 517 "http://localhost/CabBIlls/feedData.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 ```
 
-See my [GitHub Repository]() for more information.
+See my [GitHub Repository](https://github.com/shashank-ssriva/lognotify) for more information.
 
 
 ## YouTube Demo Video
