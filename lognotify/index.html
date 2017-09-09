@@ -5,10 +5,4 @@ title: lognotify
 <head>
 {% include analytics.html %}
 </head>
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+	lognotify is a simple utility (& my first ever Python script) that displays a pop-up notification showing me the exact error message in real-time while I am working on my PHP web-app. This utility is very simple, small & highly customisable. You can customise it to tailor to your specific needs. For example, you can customise it to monitor your system logs, Apache logs, MySQL logs & potentially any log-file.
