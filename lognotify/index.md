@@ -24,3 +24,16 @@ Log-file you specified doesn't seem to be present. Please specify a valid log fi
 root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_access.log
 192.168.0.51:80 127.0.0.1 - - [08/Sep/2017:15:00:51 +0200] "GET /jsdate/jsDatePick.min.1.3.js HTTP/1.1" 404 517 "http://localhost/CabBIlls/feedData.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 ```
+
+See my [GitHub Repository]() for more information.
+
+## Screenshot
+
+<img src="https://github.com/shashank-ssriva/lognotify/blob/master/lognoify_in_action.png" height="350" width="250">
+
+## YouTube Demo Video
+
+Click below thumbnail to watch the demo video  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=K8I_xFdfYFs
+" target="_blank"><img src="http://img.youtube.com/vi/K8I_xFdfYFs/0.jpg" 
