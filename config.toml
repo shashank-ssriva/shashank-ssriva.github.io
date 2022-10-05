@@ -1,6 +1,6 @@
 title = "chringel - Privacy focused theme for Hugo"
 languageCode = "en-us"
-baseurl = "http://example.com/"
+baseurl = "https://shashank-ssriva.github.io"
 theme = "chringel-hugo-theme"
 #themesDir = "themes"
 
