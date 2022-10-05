@@ -3,7 +3,7 @@ languageCode = "en-us"
 baseurl = "https://shashank-ssriva.github.io"
 theme = "chringel-hugo-theme"
 #themesDir = "themes"
-
+publishDir = "docs"
 author = "Shashank Srivastava"
 copyright = "Copyright © 2022, Christian Engel, all rights reserved."
 
