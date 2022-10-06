@@ -15,8 +15,8 @@ enableEmoji = true
     name = "chringel"
     description = "A privacy focused theme for Hugo"
 
-    github_user = "chringel21"
-    github_repo = "https://github.com/chringel21/chringel-hugo-theme"
+    github_user = "shashank-ssriva"
+    github_repo = "https://github.com/shashank-ssriva"
     github_banner = true
 
     favicon = "favicon.ico"
@@ -24,7 +24,7 @@ enableEmoji = true
     # Title to be displayed in header
     headerTitle = 'shashank@devops: ~/$'
     # User image
-    titleImage = 'images/index.png'
+    titleImage = 'images/photo.jpeg'
     # Copyright text displayed in footer
     footerCopyrightText = 'Shashank Srivastava 2022'
 
@@ -86,15 +86,15 @@ enableEmoji = true
 # Social icons to be displayed on the front page
 [[menu.social]]
   name = "GitHub"
-  url = "https://github.com/chringel21"
+  url = "https://github.com/shashank-ssriva"
 
 [[menu.social]]
   name = "Twitter"
-  url = "https://twitter.com/DeEgge"
+  url = "https://twitter.com/shashanksriva"
 
 [[menu.social]]
-  name = "RSS"
-  url = "http://example.com/index.xml"
+  name = "Medium"
+  url = "https://medium.com/@shashanksrivastava"
 
 # To make purging of CSS classes work in production
 [build]
