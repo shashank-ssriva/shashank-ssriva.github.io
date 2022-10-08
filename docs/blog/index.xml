@@ -19,17 +19,6 @@ No need to login to AWS Console to get server info like IP address or hostname, 
     </item>
     
     <item>
-      <title>REST To Do - Create a REST API Using PHP &amp; MySQL</title>
-      <link>https://shashank-ssriva.github.io/blog/rest-to-do/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shashank-ssriva.github.io/blog/rest-to-do/</guid>
-      <description>Link Introduction: Writing this code helped me create another API to perform the integration of a Service Desk tool with XL Release. Below is what the GET request looks like.
-{ https://localhost/~admin/REST-TO-DO/info?task=Write Code } The response returned is.
-{ &amp;#34;status&amp;#34;: 1, &amp;#34;info&amp;#34;: [ { &amp;#34;Task&amp;#34;: &amp;#34;Write Code&amp;#34;, &amp;#34;Date&amp;#34;: &amp;#34;18/06/2019&amp;#34;, &amp;#34;Priority&amp;#34;: &amp;#34;1&amp;#34; } ] } Detailed Medium article: https://shashanksrivastava.medium.com/create-a-rest-api-using-php-mysql-60ba1ad918d2</description>
-    </item>
-    
-    <item>
       <title>Ansible playbook for Kubernetes cluster</title>
       <link>https://shashank-ssriva.github.io/blog/ansible-playbook-kubernetes/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
@@ -43,12 +32,34 @@ GitHub repo: https://github.com/shashank-ssriva/Ansible-playbook-for-Kubernetes-
     <item>
       <title>My Travel Tracker</title>
       <link>https://shashank-ssriva.github.io/blog/flask-travel-tracker/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shashank-ssriva.github.io/blog/flask-travel-tracker/</guid>
       <description>A simple Python 3/Flask web-app to track my flights details. Flight data is stored in a MySQL database &amp;amp; displayed in form of tables &amp;amp; charts.
 Technologies used:
 Backend - Python3/Flask Frontend - Bootstrap MySQL Chart.js GitHub repo: https://github.com/shashank-ssriva/My-Travel-Tracker</description>
+    </item>
+    
+    <item>
+      <title>MyMusicStats - JavaScript web-app to dive deep into your Last.fm music stats</title>
+      <link>https://shashank-ssriva.github.io/blog/mymusicstats/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shashank-ssriva.github.io/blog/mymusicstats/</guid>
+      <description>Link Introduction: My first ever attempt at writing JavaScript code.
+MyMusicStats is a web-app to dive deep into your Last.fm stats. Simply enter your Last.fm username &amp;amp; press Submit button. Written purely in JavaScript, the app works on the client side, so no data is saved or collected. There is no backend server to process data.
+Link Features: Quickly &amp;amp; comprehensively visualise your music data. Discover interesting information about your listening habits.</description>
+    </item>
+    
+    <item>
+      <title>REST To Do - Create a REST API Using PHP &amp; MySQL</title>
+      <link>https://shashank-ssriva.github.io/blog/rest-to-do/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shashank-ssriva.github.io/blog/rest-to-do/</guid>
+      <description>Link Introduction: Writing this code helped me create another API to perform the integration of a Service Desk tool with XL Release. Below is what the GET request looks like.
+{ https://localhost/~admin/REST-TO-DO/info?task=Write Code } The response returned is.
+{ &amp;#34;status&amp;#34;: 1, &amp;#34;info&amp;#34;: [ { &amp;#34;Task&amp;#34;: &amp;#34;Write Code&amp;#34;, &amp;#34;Date&amp;#34;: &amp;#34;18/06/2019&amp;#34;, &amp;#34;Priority&amp;#34;: &amp;#34;1&amp;#34; } ] } Detailed Medium article: https://shashanksrivastava.medium.com/create-a-rest-api-using-php-mysql-60ba1ad918d2</description>
     </item>
     
   </channel>

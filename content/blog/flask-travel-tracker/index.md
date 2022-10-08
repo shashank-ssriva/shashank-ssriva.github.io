@@ -1,7 +1,7 @@
 ---
 author: Shashank Srivastava
 title: My Travel Tracker
-date: 2018-05-14
+date: 2019-07-01
 cover:
   src: "images/my-travel-tracker.png"
   caption: My Travel Tracker

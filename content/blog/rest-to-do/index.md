@@ -1,7 +1,7 @@
 ---
 author: Shashank Srivastava
 title: REST To Do - Create a REST API Using PHP & MySQL
-date: 2022-09-01
+date: 2018-05-14
 ---
 ## Introduction:  
 Writing this code helped me create another API to perform the integration of a Service Desk tool with XL Release. Below is what the `GET` request looks like.
