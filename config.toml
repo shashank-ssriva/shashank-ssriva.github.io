@@ -1,4 +1,4 @@
-title = "chringel - Privacy focused theme for Hugo"
+title = "DevOps Architect"
 languageCode = "en-us"
 baseurl = "https://shashank-ssriva.github.io"
 theme = "chringel-hugo-theme"
@@ -12,8 +12,8 @@ paginate = 10
 enableEmoji = true
 
 [Params]
-    name = "chringel"
-    description = "A privacy focused theme for Hugo"
+    name = "Shashank Srivastava"
+    description = "DevOps Architect/Principal Engineer @Paytm - India's largest mobile payments and commerce platform."
 
     github_user = "shashank-ssriva"
     github_repo = "https://github.com/shashank-ssriva"
@@ -95,6 +95,10 @@ enableEmoji = true
 [[menu.social]]
   name = "Medium"
   url = "https://medium.com/@shashanksrivastava"
+
+[[menu.social]]
+  name = "Instagram"
+  url = "https://www.instagram.com/shashanksriva/"
 
 # To make purging of CSS classes work in production
 [build]

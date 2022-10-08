@@ -1,48 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on chringel - Privacy focused theme for Hugo</title>
+    <title>Blog on DevOps Architect</title>
     <link>https://shashank-ssriva.github.io/blog/</link>
-    <description>Recent content in Blog on chringel - Privacy focused theme for Hugo</description>
+    <description>Recent content in Blog on DevOps Architect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2022, Christian Engel, all rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shashank-ssriva.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shashank-ssriva.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem Markdownum</title>
-      <link>https://shashank-ssriva.github.io/blog/lorem-markdownum/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Consolite - Flask-based UI tool to display EC2 server details with caching support</title>
+      <link>https://shashank-ssriva.github.io/blog/consolite/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shashank-ssriva.github.io/blog/lorem-markdownum/</guid>
-      <description>Link Amens nitentior vires Lorem markdownum Argo est praebebant Andros erat, tibi parte montibus erunt venis tacita spernimus more. Olim erat Aiax dixi factas potens. Perque natus ipsa potenti; nunc parte precor in mortalis manant bellica, umbrosaque et. Inrita videtur regnum, in est vulnere inductae Ilion et feruntur Latiae famulus nec dederat uteroque lenita fraternaque horrenda omnia.
-Maris Circe victum suggerit et conscia dixit Habes et undis carinae fundae lilia coniecit Tot nomine ire tot fassusque nobis ad Geminas iugales mille et ingenium magna agitantem Nemo quae sedemque Link Iunone Theseius abstulit morabar mersis Isto supremo, genitor Phoronidos, honos ibi lacus saepe rogato properus: sum an vetantis.</description>
+      <guid>https://shashank-ssriva.github.io/blog/consolite/</guid>
+      <description>Key features:
+No need to login to AWS Console to get server info like IP address or hostname, etc. Fast &amp;amp; lightweight. Lets you copy the IP address &amp;amp; server name with a click, just like AWS Console. Superfast, real-time search. Search for any server using its name or type. Safe. Doesn&amp;rsquo;t store any data in a database or file. Interactive, colorful charts to summarize data. Shows CPU/Memory &amp;amp; Cost info of each server.</description>
     </item>
     
     <item>
-      <title>A second Post</title>
-      <link>https://shashank-ssriva.github.io/blog/second-post/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <title>REST To Do - Create a REST API Using PHP &amp; MySQL</title>
+      <link>https://shashank-ssriva.github.io/blog/rest-to-do/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shashank-ssriva.github.io/blog/second-post/</guid>
-      <description>The quick, brown fox jumps over a lazy dog.
-DJs flock by when MTV ax quiz prog.
-Junk MTV quiz graced by fox whelps.
-Bawds jog, flick quartz, vex nymphs.Waltz, bad nymph, for quick jigs vex!
-Fox nymphs grab quick-jived waltz.
-Brick quiz whangs jumpy veldt fox.
-Bright vixens jump; dozy fowl quack.
-Quick wafting zephyrs vex bold Jim.
-Quick zephyrs blow, vexing daft Jim.
-How quickly daft jumping zebras vex.</description>
+      <guid>https://shashank-ssriva.github.io/blog/rest-to-do/</guid>
+      <description>Link Introduction: Writing this code helped me create another API to perform the integration of a Service Desk tool with XL Release. Below is what the GET request looks like.
+{ https://localhost/~admin/REST-TO-DO/info?task=Write Code } The response returned is.
+{ &amp;#34;status&amp;#34;: 1, &amp;#34;info&amp;#34;: [ { &amp;#34;Task&amp;#34;: &amp;#34;Write Code&amp;#34;, &amp;#34;Date&amp;#34;: &amp;#34;18/06/2019&amp;#34;, &amp;#34;Priority&amp;#34;: &amp;#34;1&amp;#34; } ] } Detailed Medium article: https://shashanksrivastava.medium.com/create-a-rest-api-using-php-mysql-60ba1ad918d2</description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://shashank-ssriva.github.io/blog/first-post/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <title>Ansible playbook for Kubernetes cluster</title>
+      <link>https://shashank-ssriva.github.io/blog/ansible-playbook-kubernetes/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://shashank-ssriva.github.io/blog/first-post/</guid>
-      <description>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</description>
+      <guid>https://shashank-ssriva.github.io/blog/ansible-playbook-kubernetes/</guid>
+      <description>An Ansible playbook to automatically provision a Kubernetes cluster on CentOS 7 servers.
+Detailed tutorial here :- https://shashanksrivastava.medium.com/use-ansible-to-automatically-provision-a-kubernetes-cluster-on-centos-7-servers-64090762e590
+GitHub repo: https://github.com/shashank-ssriva/Ansible-playbook-for-Kubernetes-cluster</description>
+    </item>
+    
+    <item>
+      <title>My Travel Tracker</title>
+      <link>https://shashank-ssriva.github.io/blog/flask-travel-tracker/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shashank-ssriva.github.io/blog/flask-travel-tracker/</guid>
+      <description>A simple Python 3/Flask web-app to track my flights details. Flight data is stored in a MySQL database &amp;amp; displayed in form of tables &amp;amp; charts.
+Technologies used:
+Backend - Python3/Flask Frontend - Bootstrap MySQL Chart.js GitHub repo: https://github.com/shashank-ssriva/My-Travel-Tracker</description>
     </item>
     
   </channel>

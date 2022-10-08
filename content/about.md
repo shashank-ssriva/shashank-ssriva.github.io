@@ -1,5 +1,5 @@
 ---
-author: Christian Engel
+author: Shashank Srivastava
 title: About
 date: 2021-12-09
 description: A short description about me.
@@ -7,6 +7,6 @@ keywords: [about, creator]
 type: about
 ---
 
-chringel - A lean theme for Hugo.
+Hi, my name is Shashank & I am a DevOps Architect/Principal Engineer @[Paytm](https://paytm.com/) - India's largest mobile payments and commerce platform.
 
-Made by [me](https://github.com/chringel21/). Based on the **awesome** [Hugo Starter Theme with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter).
+I possess more than 12 years of hands-on experience in architecting, automating & optimizing large Linux-based infrastructure, both **Cloud** & on-prem.
