@@ -14,8 +14,7 @@
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shashank-ssriva.github.io/blog/consolite/</guid>
-      <description>Key features:
-No need to login to AWS Console to get server info like IP address or hostname, etc. Fast &amp;amp; lightweight. Lets you copy the IP address &amp;amp; server name with a click, just like AWS Console. Superfast, real-time search. Search for any server using its name or type. Safe. Doesn&amp;rsquo;t store any data in a database or file. Interactive, colorful charts to summarize data. Shows CPU/Memory &amp;amp; Cost info of each server.</description>
+      <description>Link Key features: No need to login to AWS Console to get server info like IP address or hostname, etc. Fast &amp;amp; lightweight. Lets you copy the IP address &amp;amp; server name with a click, just like AWS Console. Superfast, real-time search. Search for any server using its name or type. Safe. Doesn&amp;rsquo;t store any data in a database or file. Interactive, colorful charts to summarize data. Shows CPU/Memory &amp;amp; Cost info of each server.</description>
     </item>
     
     <item>
@@ -41,13 +40,13 @@ Backend - Python3/Flask Frontend - Bootstrap MySQL Chart.js GitHub repo: https:/
     </item>
     
     <item>
-      <title>MyMusicStats - JavaScript web-app to dive deep into your Last.fm music stats</title>
+      <title>MyMusicStats</title>
       <link>https://shashank-ssriva.github.io/blog/mymusicstats/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://shashank-ssriva.github.io/blog/mymusicstats/</guid>
       <description>Link Introduction: My first ever attempt at writing JavaScript code.
-MyMusicStats is a web-app to dive deep into your Last.fm stats. Simply enter your Last.fm username &amp;amp; press Submit button. Written purely in JavaScript, the app works on the client side, so no data is saved or collected. There is no backend server to process data.
+MyMusicStats is a fully responsive web-app to dive deep into your Last.fm stats. Simply enter your Last.fm username &amp;amp; press Submit button. Written purely in JavaScript, the app works on the client side, so no data is saved or collected. There is no backend server to process data.
 Link Features: Quickly &amp;amp; comprehensively visualise your music data. Discover interesting information about your listening habits.</description>
     </item>
     

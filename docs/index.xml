@@ -24,8 +24,11 @@
       <description>
           <![CDATA[ 
           
-          <p>Key features:</p>
-<ol>
+          <h2 id="key-features" class="link-owner">
+  <a href="https://shashank-ssriva.github.io/blog/consolite/#key-features" class="link">
+      <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
+  </a>Key features:
+</h2><ol>
 <li>No need to login to AWS Console to get server info like IP address or hostname, etc.</li>
 <li>Fast &amp; lightweight.</li>
 <li>Lets you copy the IP address &amp; server name with a click, <em>just like AWS Console</em>.</li>
@@ -35,8 +38,11 @@
 <li>Shows CPU/Memory &amp; Cost info of each server.</li>
 <li><strong>Caching enabled</strong>. The table is cached for 60 minuts. Latest data can be pulled with a click of a button.</li>
 </ol>
-<p>Technologies used:</p>
-<ul>
+<h2 id="technologies-used" class="link-owner">
+  <a href="https://shashank-ssriva.github.io/blog/consolite/#technologies-used" class="link">
+      <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
+  </a>Technologies used:
+</h2><ul>
 <li>Python3</li>
 <li>Flask</li>
 <li>Nginx</li>
@@ -44,8 +50,8 @@
 <li>Flask-Caching</li>
 <li>Gunicorn</li>
 <li>Supervisord</li>
+<li>Chart.js - for charts &amp; graphs</li>
 </ul>
-<hr>
 
           
           
@@ -165,7 +171,7 @@ displayed in form of tables &amp; charts.</p>
     </item>
     
     <item>
-      <title>MyMusicStats - JavaScript web-app to dive deep into your Last.fm music stats</title>
+      <title>MyMusicStats</title>
       <link>https://shashank-ssriva.github.io/blog/mymusicstats/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -190,7 +196,7 @@ displayed in form of tables &amp; charts.</p>
       <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
   </a>Introduction:
 </h2><p>My first ever attempt at writing JavaScript code.</p>
-<p>MyMusicStats is a web-app to dive deep into your Last.fm stats. Simply enter your Last.fm username &amp; press Submit button. Written purely in JavaScript, the app works on the client side, so no data is saved or collected. There is no backend server to process data.</p>
+<p>MyMusicStats is a fully responsive web-app to dive deep into your Last.fm stats. Simply enter your Last.fm username &amp; press Submit button. Written purely in JavaScript, the app works on the client side, so no data is saved or collected. There is no backend server to process data.</p>
 <h2 id="features" class="link-owner">
   <a href="https://shashank-ssriva.github.io/blog/mymusicstats/#features" class="link">
       <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
