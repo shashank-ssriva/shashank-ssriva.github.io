@@ -4,7 +4,7 @@ title: Consolite - Flask-based UI tool to display EC2 server details with cachin
 date: 2022-09-01
 ---
 
-Key features:
+## Key features:
 
 1. No need to login to AWS Console to get server info like IP address or hostname, etc.
 2. Fast & lightweight.
@@ -15,7 +15,7 @@ Key features:
 7. Shows CPU/Memory & Cost info of each server.
 8. **Caching enabled**. The table is cached for 60 minuts. Latest data can be pulled with a click of a button.
 
-Technologies used:
+## Technologies used:
 
 * Python3
 * Flask
@@ -24,5 +24,4 @@ Technologies used:
 * Flask-Caching
 * Gunicorn
 * Supervisord
-
----
+* Chart.js - for charts & graphs
